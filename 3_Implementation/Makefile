@@ -3,7 +3,7 @@ PROJ_NAME = Heat_Monitoring
 BUILD_DIR = Build
 
 # All Source code files
-SRC = project_main.c\
+SRC = main.c\
 src/act1.c\
 src/act2.c\
 src/act3.c\
